@@ -27,7 +27,7 @@
         <location filename="../qml/Tapper/AboutPage.qml" line="153"/>
         <source>Powered by</source>
         <translation></translation>
-    </message>
+    </message>a
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="219"/>
         <source>Credits</source>
