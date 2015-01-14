@@ -74,22 +74,16 @@
     </message>
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="306"/>
-        <location filename="../Tapper/qml/Tapper/AboutPage.qml" line="133"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/AboutPage.qml" line="133"/>
         <source>Yeah, page about this app.</source>
         <translation>Evet, bu sayfa uygulama hakkĂ„Â±nda.</translation>
     </message>
     <message>
-        <location filename="../Tapper/qml/Tapper/AboutPage.qml" line="78"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/AboutPage.qml" line="78"/>
         <source>Thanks to Allstar12345</source>
-        <translation>SabrĂ„Â± iĂÂ§in Allstar12345</translation>
+        <translation type="obsolete">SabrĂ„Â± iĂÂ§in Allstar12345</translation>
     </message>
     <message>
-        <location filename="../Tapper/qml/Tapper/AboutPage.qml" line="91"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/AboutPage.qml" line="91"/>
         <source>CountIt is counter application based on QML code. Compatible with all Symbian phones with Symbian Anna and newer version of Symbian.</source>
-        <translation>CountIt, QML ĂÂĽzerine oluĂ…Ĺ¸turulmuĂ…Ĺ¸ sayma uygulamasĂ„Â±dĂ„Â±r. TĂÂĽm Symbian Anna, Belle, Belle Refresh sĂÂĽrĂÂĽmleri ile uyumludur.</translation>
+        <translation type="obsolete">CountIt, QML ĂÂĽzerine oluĂ…Ĺ¸turulmuĂ…Ĺ¸ sayma uygulamasĂ„Â±dĂ„Â±r. TĂÂĽm Symbian Anna, Belle, Belle Refresh sĂÂĽrĂÂĽmleri ile uyumludur.</translation>
     </message>
 </context>
 <context>
@@ -161,9 +155,8 @@
         <translation>YakĂ„Â±nlĂ„Â±k yensĂÂ¶rĂÂĽ algĂ„Â±landĂ„Â±!</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/CountDown.qml" line="182"/>
         <source>In clipboard is saved this text: </source>
-        <translation>Bu yazĂ„Â± panoya kaydedildi: </translation>
+        <translation type="obsolete">Bu yazĂ„Â± panoya kaydedildi: </translation>
     </message>
     <message>
         <location filename="../qml/Tapper/CountDown.qml" line="187"/>
@@ -177,8 +170,6 @@
     </message>
     <message>
         <location filename="../qml/Tapper/CountDown.qml" line="198"/>
-        <location filename="../Tapper/qml/Tapper/CountDown.qml" line="133"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/CountDown.qml" line="133"/>
         <source> This page allows you count a specific number between 1-999 999. Tap on screen to count down or use proximity sensor. To count up make a long press on screen. If application reaches 0, the gong will informates you.</source>
         <translation> Bu sayfa 1-999 999 arasĂ„Â±nda sayĂ„Â± gĂÂ¶stermeyi saĂ„Ĺ¸lar. Geri sayĂ„Â±m veya yakĂ„Â±nlĂ„Â±k sensĂÂ¶rĂÂĽnĂÂĽ kullanĂ„Â±n. Ekrana uzun sĂÂĽre basarak sayma artar. EĂ„Ĺ¸er uygulama 0 ulaĂ…Ĺ¸Ă„Â±rsa bana ulaĂ…Ĺ¸Ă„Â±n.</translation>
     </message>
@@ -207,9 +198,8 @@
         <translation>YakĂ„Â±nlĂ„Â±k sensĂÂ¶rĂÂĽ algĂ„Â±landĂ„Â±!</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/CountUp.qml" line="112"/>
         <source>In clipboard is saved this text: </source>
-        <translation>Bu yazĂ„Â± panoya kaydedildi: </translation>
+        <translation type="obsolete">Bu yazĂ„Â± panoya kaydedildi: </translation>
     </message>
     <message>
         <location filename="../qml/Tapper/CountUp.qml" line="117"/>
@@ -223,8 +213,6 @@
     </message>
     <message>
         <location filename="../qml/Tapper/CountUp.qml" line="150"/>
-        <location filename="../Tapper/qml/Tapper/CountUp.qml" line="106"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/CountUp.qml" line="106"/>
         <source>Tap on screen or place hand near to proximity sensor on the top of your phone. To count down make a long press on screen.</source>
         <translation>Ekrandan veya yakĂ„Â±nlĂ„Â±k sensĂÂ¶rĂÂĽnĂÂĽn ĂÂĽzerine basĂ„Â±n. Geri sayĂ„Â±m iĂÂ§in ekrana uzun sĂÂĽre basĂ„Â±n.</translation>
     </message>
@@ -282,129 +270,98 @@
     </message>
     <message>
         <location filename="../qml/Tapper/MainPage.qml" line="318"/>
-        <location filename="../Tapper/qml/Tapper/MainPage.qml" line="140"/>
         <source>In every header is hidden information about actual page. Also with long press on header you can open quick menu everywhere.</source>
         <translation>Her baĂ…Ĺ¸lĂ„Â±k gerĂÂ§ek sayfa hakkĂ„Â±nda gizli bilgidir. AyrĂ„Â±ca ĂÂĽstbilgi tuĂ…Ĺ¸una uzun basarak hĂ„Â±zlĂ„Â± menĂÂĽ her yerde aĂÂ§abilirsiniz.</translation>
     </message>
     <message>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/MainPage.qml" line="140"/>
         <source>In every header is hiden information about actual page. Also with long press on header you can open quick menu everywhere.</source>
-        <translation>Her baĂ…Ĺ¸lĂ„Â±k gerĂÂ§ek sayfa hakkĂ„Â±nda gizli bilgidir. AyrĂ„Â±ca ĂÂĽstbilgi tuĂ…Ĺ¸una uzun basarak hĂ„Â±zlĂ„Â± menĂÂĽ her yerde aĂÂ§abilirsiniz.</translation>
+        <translation type="obsolete">Her baĂ…Ĺ¸lĂ„Â±k gerĂÂ§ek sayfa hakkĂ„Â±nda gizli bilgidir. AyrĂ„Â±ca ĂÂĽstbilgi tuĂ…Ĺ¸una uzun basarak hĂ„Â±zlĂ„Â± menĂÂĽ her yerde aĂÂ§abilirsiniz.</translation>
     </message>
 </context>
 <context>
     <name>Multicount</name>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="16"/>
         <source>I count it via CountIt and result(s) is(are) </source>
-        <translation>Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
+        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="56"/>
         <source>Add counter</source>
-        <translation>SayaĂÂ§ ekle</translation>
+        <translation type="obsolete">SayaĂÂ§ ekle</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="56"/>
         <source>Count first (-_-)</source>
-        <translation>(-_-) ĂÂ¶nce say</translation>
+        <translation type="obsolete">(-_-) ĂÂ¶nce say</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="300"/>
         <source>You must count something first.</source>
-        <translation>Ăâ€“nce birĂ…Ĺ¸ey saymak gerekir.</translation>
+        <translation type="obsolete">Ăâ€“nce birĂ…Ĺ¸ey saymak gerekir.</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="303"/>
         <source>I count it via CountIt and result is </source>
-        <translation>Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
+        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="304"/>
         <source>I count it via CountIt and results are: </source>
-        <translation>Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
+        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="409"/>
         <source>Red</source>
-        <translation>KĂ„Â±rmĂ„Â±zĂ„Â±</translation>
+        <translation type="obsolete">KĂ„Â±rmĂ„Â±zĂ„Â±</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="418"/>
         <source>Blue</source>
-        <translation>Mavi</translation>
+        <translation type="obsolete">Mavi</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="426"/>
         <source>Green</source>
-        <translation>YeĂ…Ĺ¸il</translation>
+        <translation type="obsolete">YeĂ…Ĺ¸il</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="434"/>
         <source>Purple</source>
-        <translation>Mor</translation>
+        <translation type="obsolete">Mor</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="443"/>
         <source>Yellow</source>
-        <translation>SarĂ„Â±</translation>
+        <translation type="obsolete">SarĂ„Â±</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="451"/>
         <source>Orange</source>
-        <translation>Turuncu</translation>
+        <translation type="obsolete">Turuncu</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="459"/>
         <source>White</source>
-        <translation>Beyaz</translation>
+        <translation type="obsolete">Beyaz</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="493"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="513"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="533"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="553"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="572"/>
         <source>I count it via CountIt and result is: </source>
-        <translation>Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
+        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="493"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="513"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="533"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="553"/>
-        <location filename="../qml/Tapper/Multicount.qml" line="572"/>
         <source>In clipboard is saved this text: </source>
-        <translation>Bu yazĂ„Â± panoya kaydedildi: </translation>
+        <translation type="obsolete">Bu yazĂ„Â± panoya kaydedildi: </translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="595"/>
         <source>MultiCount Up</source>
-        <translation>Ăâ€ˇoklu Say</translation>
+        <translation type="obsolete">Ăâ€ˇoklu Say</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="597"/>
         <source>Press edit button and add new counters. You can also delete them or reset specific counter.</source>
-        <translation>DĂÂĽzenle butonuna tĂ„Â±kla ve yeni sayaĂÂ§ ekle. Silmek iĂÂ§in veya sĂ„Â±fĂ„Â±rlamak iĂÂ§in kullanĂ„Â±lĂ„Â±r.</translation>
+        <translation type="obsolete">DĂÂĽzenle butonuna tĂ„Â±kla ve yeni sayaĂÂ§ ekle. Silmek iĂÂ§in veya sĂ„Â±fĂ„Â±rlamak iĂÂ§in kullanĂ„Â±lĂ„Â±r.</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="616"/>
         <source>Give me a name</source>
-        <translation>Bana adĂ„Â±nĂ„Â± ver</translation>
+        <translation type="obsolete">Bana adĂ„Â±nĂ„Â± ver</translation>
     </message>
     <message>
-        <location filename="../qml/Tapper/Multicount.qml" line="649"/>
         <source>Clear</source>
-        <translation>Temizle</translation>
+        <translation type="obsolete">Temizle</translation>
     </message>
 </context>
 <context>
     <name>PreCountDown</name>
     <message>
-        <location filename="../Tapper/qml/Tapper/PreCountDown.qml" line="298"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/PreCountDown.qml" line="298"/>
         <source> This page allows you count a specific number between 1-999 999. At first set value how many signals you want count. After that press continue button. Tap on screen to count down or use proximity sensor. To count up make a long press on screen and select &apos;Count up&apos;. If application reaches 0, the gong will informates you.</source>
-        <translation> Bu sayfa 1-999 999 arasĂ„Â±nda sayĂ„Â± gĂÂ¶stermeyi saĂ„Ĺ¸lar. Ă„Â°lk deĂ„Ĺ¸er ayarlama ile saymak istenilen girilir. Sonra devam et butonuna tĂ„Â±klanĂ„Â±r.</translation>
+        <translation type="obsolete"> Bu sayfa 1-999 999 arasĂ„Â±nda sayĂ„Â± gĂÂ¶stermeyi saĂ„Ĺ¸lar. Ă„Â°lk deĂ„Ĺ¸er ayarlama ile saymak istenilen girilir. Sonra devam et butonuna tĂ„Â±klanĂ„Â±r.</translation>
     </message>
 </context>
 <context>
@@ -434,12 +391,6 @@
         <location filename="../qml/Tapper/PreCountDownII.qml" line="83"/>
         <source> This page allows you count a specific number between 1-999 999. At first set value how many signals you want count. After that press continue button.</source>
         <translation> Bu sayfa 1-999 999 arasĂ„Â±nda sayĂ„Â± gĂÂ¶stermeyi saĂ„Ĺ¸lar. Ă„Â°lk deĂ„Ĺ¸er ayarlama ile saymak istenilen girilir. Sonra devam et butonuna tĂ„Â±klanĂ„Â±r.</translation>
-    </message>
-    <message>
-        <location filename="../Tapper/qml/Tapper/PreCountDownII.qml" line="83"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/PreCountDownII.qml" line="83"/>
-        <source> This page allows you count a specific number between 1-999 999.</source>
-        <translation></translation>
     </message>
 </context>
 <context>
@@ -534,8 +485,6 @@
     </message>
     <message>
         <location filename="../qml/Tapper/Settings.qml" line="399"/>
-        <location filename="../Tapper/qml/Tapper/Settings.qml" line="351"/>
-        <location filename="../Tapper-build-simulator-Simulator_Qt_for_MinGW_4_4__Qt_SDK__lad_n_/qml/Tapper/Settings.qml" line="351"/>
         <source>Settings page... What more I can say?</source>
         <translation>Ayarlar sayfasĂ„Â±... Ne denilebilir ki daha ?</translation>
     </message>
@@ -553,6 +502,11 @@
         <location filename="../qml/Tapper/SharePage.qml" line="86"/>
         <source>In clipboard is saved this text: </source>
         <translation>Bu yazĂ„Â± panoya kaydedildi: </translation>
+    </message>
+    <message>
+        <location filename="../qml/Tapper/SharePage.qml" line="66"/>
+        <source>Only clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tapper/SharePage.qml" line="110"/>
@@ -581,80 +535,120 @@
 <context>
     <name>multiCount</name>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="16"/>
         <source>I count it via CountIt and result(s) is(are) </source>
-        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
+        <translation type="unfinished">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="56"/>
         <source>Add counter</source>
-        <translation type="obsolete">SayaĂÂ§ ekle</translation>
+        <translation type="unfinished">SayaĂÂ§ ekle</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="56"/>
         <source>Count first (-_-)</source>
-        <translation type="obsolete">(-_-) ĂÂ¶nce say</translation>
+        <translation type="unfinished">(-_-) ĂÂ¶nce say</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="300"/>
         <source>You must count something first.</source>
-        <translation type="obsolete">Ăâ€“nce birĂ…Ĺ¸ey saymak gerekir.</translation>
+        <translation type="unfinished">Ăâ€“nce birĂ…Ĺ¸ey saymak gerekir.</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="303"/>
         <source>I count it via CountIt and result is </source>
-        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
+        <translation type="unfinished">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§ </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="304"/>
         <source>I count it via CountIt and results are: </source>
-        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
+        <translation type="unfinished">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="409"/>
         <source>Red</source>
-        <translation type="obsolete">KĂ„Â±rmĂ„Â±zĂ„Â±</translation>
+        <translation type="unfinished">KĂ„Â±rmĂ„Â±zĂ„Â±</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="418"/>
         <source>Blue</source>
-        <translation type="obsolete">Mavi</translation>
+        <translation type="unfinished">Mavi</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="426"/>
         <source>Green</source>
-        <translation type="obsolete">YeĂ…Ĺ¸il</translation>
+        <translation type="unfinished">YeĂ…Ĺ¸il</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="434"/>
         <source>Purple</source>
-        <translation type="obsolete">Mor</translation>
+        <translation type="unfinished">Mor</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="443"/>
         <source>Yellow</source>
-        <translation type="obsolete">SarĂ„Â±</translation>
+        <translation type="unfinished">SarĂ„Â±</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="451"/>
         <source>Orange</source>
-        <translation type="obsolete">Turuncu</translation>
+        <translation type="unfinished">Turuncu</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="459"/>
         <source>White</source>
-        <translation type="obsolete">Beyaz</translation>
+        <translation type="unfinished">Beyaz</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="493"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="513"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="533"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="553"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="572"/>
         <source>I count it via CountIt and result is: </source>
-        <translation type="obsolete">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
+        <translation type="unfinished">Ben CountIt ile sayĂ„Â±yorum ve sonuĂÂ§: </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="493"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="513"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="533"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="553"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="572"/>
         <source>In clipboard is saved this text: </source>
-        <translation type="obsolete">Bu yazĂ„Â± panoya kaydedildi: </translation>
+        <translation type="unfinished">Bu yazĂ„Â± panoya kaydedildi: </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="586"/>
+        <source>Overall: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="595"/>
         <source>MultiCount Up</source>
-        <translation type="obsolete">Ăâ€ˇoklu Sayma</translation>
+        <translation type="unfinished">Ăâ€ˇoklu Sayma</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="597"/>
         <source>Press edit button and add new counters. You can also delete them or reset specific counter.</source>
-        <translation type="obsolete">DĂÂĽzenle butonuna tĂ„Â±kla ve yeni sayaĂÂ§ ekle. Silmek iĂÂ§in veya sĂ„Â±fĂ„Â±rlamak iĂÂ§in kullanĂ„Â±lĂ„Â±r.</translation>
+        <translation type="unfinished">DĂÂĽzenle butonuna tĂ„Â±kla ve yeni sayaĂÂ§ ekle. Silmek iĂÂ§in veya sĂ„Â±fĂ„Â±rlamak iĂÂ§in kullanĂ„Â±lĂ„Â±r.</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="616"/>
         <source>Give me a name</source>
-        <translation type="obsolete">Bana adĂ„Â±nĂ„Â± ver</translation>
+        <translation type="unfinished">Bana adĂ„Â±nĂ„Â± ver</translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="649"/>
         <source>Clear</source>
-        <translation type="obsolete">Temizle</translation>
+        <translation type="unfinished">Temizle</translation>
+    </message>
+    <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="689"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="692"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="695"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="698"/>
+        <source>Counter added</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
