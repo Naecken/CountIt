@@ -36,7 +36,7 @@
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="218"/>
         <source>Allstar12345 for his patience</source>
-        <translation type="unfinished"> </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="225"/>
@@ -394,6 +394,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/SharePage.qml" line="66"/>
+        <source>Only clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../qml/Tapper/SharePage.qml" line="110"/>
         <source>Share</source>
         <translation type="unfinished"></translation>
@@ -503,6 +508,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="586"/>
+        <source>Overall: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../qml/Tapper/multiCount.qml" line="595"/>
         <source>MultiCount Up</source>
         <translation type="unfinished"></translation>
@@ -520,6 +530,14 @@
     <message>
         <location filename="../qml/Tapper/multiCount.qml" line="649"/>
         <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="689"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="692"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="695"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="698"/>
+        <source>Counter added</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
