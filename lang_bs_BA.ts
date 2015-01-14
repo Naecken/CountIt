@@ -36,7 +36,7 @@
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="218"/>
         <source>Allstar12345 for his patience</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> </translation>
     </message>
     <message>
         <location filename="../qml/Tapper/AboutPage.qml" line="225"/>
