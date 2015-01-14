@@ -508,6 +508,11 @@
         <translation>Ve schrĂˇnce je uloĹľenĂ˝ tento text: </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/SharePage.qml" line="66"/>
+        <source>Only clipboard</source>
+        <translation>Pouze do schrĂˇnky</translation>
+    </message>
+    <message>
         <location filename="../qml/Tapper/SharePage.qml" line="110"/>
         <source>Share</source>
         <translation>SdĂ­let</translation>
@@ -617,6 +622,11 @@
         <translation>Ve schrĂˇnce je uloĹľen tento text: </translation>
     </message>
     <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="586"/>
+        <source>Overall: </source>
+        <translation>CelkovÄ›: </translation>
+    </message>
+    <message>
         <location filename="../qml/Tapper/multiCount.qml" line="595"/>
         <source>MultiCount Up</source>
         <translation>VĂ­cenĂˇsobnĂ© pĹ™iÄŤĂ­tĂˇnĂ­</translation>
@@ -635,6 +645,14 @@
         <location filename="../qml/Tapper/multiCount.qml" line="649"/>
         <source>Clear</source>
         <translation>Smazat</translation>
+    </message>
+    <message>
+        <location filename="../qml/Tapper/multiCount.qml" line="689"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="692"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="695"/>
+        <location filename="../qml/Tapper/multiCount.qml" line="698"/>
+        <source>Counter added</source>
+        <translation>ÄŚĂ­taÄŤ pĹ™idĂˇn</translation>
     </message>
 </context>
 <context>
